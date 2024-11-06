@@ -1,5 +1,4 @@
 
-
 export const NavProduklainnya = [
     {
         title : "Peswat Dan Hotel"
@@ -372,6 +371,67 @@ export const fromMoney = [
 
             },
         ]
+    },
+]
+
+
+export const katagory = [
+    {
+        icon : "RiHotelLine",
+        lodging : "Hotel"
+    },
+    {
+        icon : "RiHotelFill",
+        lodging : "Vila"
+    },
+    {
+        icon : "PiBuildingApartment" ,
+        lodging : "Apartemen"
+    },
+]
+
+export const dataInputHotel = [
+    {
+        value : "Bandung",
+        label : "Bandung",
+        descripsi: "Jawa Barat, Indonesia",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Yogyakarta",
+        label : "Yogyakarta",
+        descripsi: "Daerah Istimewa Yogyakarta, Indonesia",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Jakarta",
+        label : "Jakarta",
+        descripsi: "Indonesia",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Bali",
+        label : "Bali",
+        descripsi: "Indonesia",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Singapura",
+        label : "Singapura",
+        descripsi: "",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Kuala Lumpur",
+        label : "Malaysia",
+        descripsi: "Jawa Barat, Indonesia",
+        jumlahHotel : "3.832 hotel"
+    },
+    {
+        value : "Hongkong",
+        label : "Hongkong",
+        descripsi: "",
+        jumlahHotel : "3.832 hotel"
     },
 ]
 
