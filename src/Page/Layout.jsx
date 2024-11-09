@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../Component/Navbar'
 import ButtobBarMataUang from '../Component/ButtobBarMataUang'
 import HotelNav from '../Component/HotelNav'
+import DateNav from '../Component/DateNav'
 
 
 const Layout = () => {
